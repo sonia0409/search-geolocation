@@ -33,11 +33,6 @@ DB_PASSWORD = ""
 DB_DATABASE = ""
 DB_PORT = ""
 
-## Setting up db
-to migrate the data from csv file to the table in psql
-
-npm db:reset 
-
 ___
 
 ## Using the application locally
@@ -47,14 +42,18 @@ ___
 ```js
 git clone [git@github.com:sonia0409/](https://github.com/sonia0409/search-geolocation)
 ```
-
-2. Setting up and running server/backend:
+2. Setting up db
+ to create table and migrate the data from csv file to the table in psql
+```js
+npm db:reset
+```
+4. Setting up and running server/backend:
 ```js
 cd server-side
 npm install
 
 # Start server
-npm start run dev
+npm run dev
 
 #run tests
 npm test
