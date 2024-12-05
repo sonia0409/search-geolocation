@@ -42,10 +42,10 @@ ___
 
 ## Using the application locally
 
-1. Fork/clone the [search-geolocation Repo](https://github.com/sonia0409/) repo to your local device.
+1. Fork/clone the [search-geolocation Repo](https://github.com/sonia0409/search-geolocation) repo to your local device.
 
 ```js
-git clone git@github.com:sonia0409/
+git clone [git@github.com:sonia0409/](https://github.com/sonia0409/search-geolocation)
 ```
 
 2. Setting up and running server/backend:
@@ -55,6 +55,9 @@ npm install
 
 # Start server
 npm start run dev
+
+#run tests
+npm test
 ```
 
 3. Setting up and running client/frontend:
