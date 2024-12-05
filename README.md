@@ -1,6 +1,7 @@
 # Search-Geolocation
 
-Search-geolocation is an app that fetch the list of nearby locations to the provided "latitude" and "longitude"
+- Search-geolocation is an app that fetch the list of nearby locations to the provided "latitude" and "longitude".
+- The locations are sorted according to the conincidence score.
 
 React based frontend with TSX, SASS. Backend made with NodeJS, Express, Typescript and PostgreSQL.
 
