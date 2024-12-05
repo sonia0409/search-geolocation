@@ -13,7 +13,7 @@ React based frontend with TSX, SASS. Backend made with NodeJS, Express, Typescri
 
 ### Data:
 
-<img src="https://github.com/sonia0409/search-geolocation/blob/main/docs/locations.gif" width="300" height="400" />
+<img src="https://github.com/sonia0409/search-geolocation/blob/main/docs/locations.gif" width="500" height="400" />
 
 
 
