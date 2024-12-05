@@ -7,11 +7,13 @@ React based frontend with TSX, SASS. Backend made with NodeJS, Express, Typescri
 
 ## Application
 ### Error Messges:
-<img src="https://github.com/sonia0409/StayFit/blob/master/docs/login.png?raw=true" width="300" height="400" />
+<img src="https://github.com/sonia0409/search-geolocation/blob/main/docs/ErrorMessages.gif" width="300" height="400" />
+<img src="https://github.com/sonia0409/search-geolocation/blob/main/docs/stringLatLonError.gif" width="300" height="400" />
+
 
 ### Data:
 
-<img src="https://github.com/sonia0409/StayFit/blob/master/docs/dashboard.gif?raw=true" width="300" height="400" />
+<img src="https://github.com/sonia0409/search-geolocation/blob/main/docs/locations.gif" width="300" height="400" />
 
 
 
